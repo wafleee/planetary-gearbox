@@ -1,2 +1,2 @@
-# planetary-gearbox
-i made a planetary gearbox that has a reduction ratio, a small dc motor can be attachted to it 
+# Planetary Gearbox
+i made a planetary gearbox that has a reduction ratio, a small dc motor can be attached to it 
