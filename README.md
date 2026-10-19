@@ -7,6 +7,6 @@ i made a planetary gearbox that has a reduction ratio, a small dc motor can be a
 <img width="774" height="555" alt="Screenshot 2026-10-18 214600" src="https://github.com/user-attachments/assets/3a877453-9f92-4d81-9f66-f4a7af017326" />
 
 
-#Credits
+# Credits
 
 Fusion 360 - https://www.autodesk.com/in/products/fusion-360
